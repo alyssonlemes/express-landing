@@ -6,6 +6,8 @@ import { NovidadesPage } from "./components/NovidadesPage";
 import { SearchPage } from "./components/SearchPage";
 import { LanguageProvider } from "./i18n";
 
+
+
 export function App() {
   return (
     <LanguageProvider>
